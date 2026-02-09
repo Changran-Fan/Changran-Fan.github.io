@@ -53,11 +53,11 @@ Narayan Ramasubbu and Anandhi Bharadwaj, Accepted for presentation at the Confer
 
 Education
 ------
-- Ph.D in Information Systems and Technology Management, Katz Graduate School of Business, University of Pittsburgh, 08/2018-present
+- Ph.D in Information Systems and Technology Management, Katz Graduate School of Business, University of Pittsburgh, 2024
 
-- M.S. in Management Information Systems, Katz Graduate School of Business, University of Pittsburgh, 08/2017-05/2018
+- M.S. in Management Information Systems, Katz Graduate School of Business, University of Pittsburgh, 2018
 
-- B.S. in Economics and Finance, Nanjing Audit University, 09/2011-06/2015
+- B.S. in Economics and Finance, Nanjing Audit University, 2015
 
 
 Teaching Experience
